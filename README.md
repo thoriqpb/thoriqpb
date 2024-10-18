@@ -1,4 +1,8 @@
-## Hi there 👋
+## About Me ⚡
+
+- 🌟 Instrumentation & Control Engineering Student | Exploring Python, microcontroller, and robotics
+- 🔭 Working on: Image processing with YOLO, microcontroller projects, and sensor integration
+- 🌱 Currently learning: AI models, microcontroller programming, and robot motion
 
 <!--
 **thoriqpb/thoriqpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
