@@ -1,7 +1,7 @@
 ## About Me ⚡
 
 - 🌟 Instrumentation & Control Engineering Student | Exploring Python, microcontroller, and robotics
-- 🔭 Working on: Image processing with YOLO, microcontroller projects, and sensor integration
+- 🔭 Working on: Computer vision, microcontroller projects, and sensor integration
 - 🌱 Currently learning: AI models, microcontroller programming, and robot motion
 
 <!--
