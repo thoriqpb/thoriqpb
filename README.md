@@ -1,20 +1,12 @@
-## About Me ⚡
+## About Me 👋
+Hi, I'm **Thoriq Putra Belligan**, a second-year student at **Instrumentation & Control Engineering**, **Universitas Gadjah Mada**.
 
-- 🌟 Instrumentation & Control Engineering Student | Exploring Python, microcontroller, and robotics
-- 🔭 Working on: Computer vision, microcontroller projects, and sensor integration
-- 🌱 Currently learning: AI models, microcontroller programming, and robot motion
+- 🌟 **Aspiring Innovator** | Diving deep into **Python, microcontrollers, and robotics**
+- 🔭 Currently tinkering with **computer vision** and mastering **instance segmentation using YOLO**
+- 🌱  Expanding my horizons in **electronics**, **microcontroller programming**, and **robot motion**
+- ⚡ Fun fact **I once accidentally exploded a table in my class**
 
-<!--
-**thoriqpb/thoriqpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with Me:
+[![Gmail Badge](https://img.shields.io/badge/-thoriqputrabelligan@mail.ugm.ac.id-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thoriqputrabelligan@mail.ugm.ac.id)](mailto:thoriqputrabelligan@mail.ugm.ac.id)
+[![Linkedin Badge](https://img.shields.io/badge/-thoriqpb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thoriqpb/)](https://www.linkedin.com/in/thoriqpb/)
+[![Instagram Badge](https://img.shields.io/badge/-thoriqpb-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/thoriqpb/)](https://instagram.com/thoriqpb)
