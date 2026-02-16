@@ -1,5 +1,5 @@
 ## About Me 👋
-Hi, I'm **Thoriq Putra Belligan**, a second-year student at **Instrumentation & Control Engineering**, **Universitas Gadjah Mada**.
+Hi, I'm **Thoriq Putra Belligan**, a third-year student at **Instrumentation & Control Engineering**, **Universitas Gadjah Mada**.
 
 - 🌟 **Aspiring Innovator** | Diving deep into **Python, microcontrollers, and robotics**
 - 🔭 Currently tinkering with **computer vision** and mastering **instance segmentation using YOLO**
